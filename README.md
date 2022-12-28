@@ -4,7 +4,7 @@
 
 
 
-###  **_Installing Apache and updating Firewall_**
+###  **_INSTALLING APACHE AND UPDATING FIREWALL_**
 
 update a list of packages in package manager
 
@@ -41,3 +41,6 @@ http://<Public-IP-Address>:80
 If you see following page, then your web server is now correctly installed and accessible through your firewall.
 
 ![alt text](./IMAGES/ubuntu-default-page.PNG)
+
+
+###  **_INSTALLING MYSQL_**
